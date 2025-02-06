@@ -1,0 +1,11 @@
+program_name	count	
+Project Management	1	
+Team Building	1	
+Change Management	1	
+Technical Skills Development	1	
+Time Management	1	
+Emotional Intelligence	1	
+Effective Communication	1	
+Leadership Training	1	
+Conflict Resolution	1	
+Customer Service Excellence	1	
